@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import Landing from "./landing";
+import Landing from "./Landing"; 
+
 import { useNavigate } from "react-router-dom";
 
 function Login(props) {
